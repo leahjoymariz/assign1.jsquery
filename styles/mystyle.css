@@ -1,0 +1,5 @@
+/*alert*/
+.alert-error{
+    background-color:rgb(176, 100, 100);
+    border: 1px solid rgb(178, 26, 26);
+}
